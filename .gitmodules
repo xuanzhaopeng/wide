@@ -37,10 +37,10 @@
 	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.releng.git
 [submodule "eclipse.platform.resources"]
 	path = eclipse.platform.resources
-	url = git://git.eclipse.org/gitroot/eclipse.platform.resources
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.resources
 [submodule "eclipse.platform.runtime"]
 	path = eclipse.platform.runtime
-	url = git://git.eclipse.org/gitroot/eclipse.platform.runtime
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.runtime
 [submodule "eclipse.platform.swt"]
 	path = eclipse.platform.swt
 	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.swt.git
