@@ -25,16 +25,16 @@
 	url = git://git.eclipse.org/gitroot/pde/eclipse.pde.ui
 [submodule "eclipse.platform"]
 	path = eclipse.platform
-	url = git://git.eclipse.org/gitroot/eclipse.platform
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform
 [submodule "eclipse.platform.common"]
 	path = eclipse.platform.common
-	url = git://git.eclipse.org/gitroot/eclipse.platform.common
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.common
 [submodule "eclipse.platform.debug"]
 	path = eclipse.platform.debug
-	url = git://git.eclipse.org/gitroot/eclipse.platform.debug
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.debug
 [submodule "eclipse.platform.releng"]
 	path = eclipse.platform.releng
-	url = git://git.eclipse.org/gitroot/eclipse.platform.releng.git
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.releng.git
 [submodule "eclipse.platform.resources"]
 	path = eclipse.platform.resources
 	url = git://git.eclipse.org/gitroot/eclipse.platform.resources
@@ -43,22 +43,22 @@
 	url = git://git.eclipse.org/gitroot/eclipse.platform.runtime
 [submodule "eclipse.platform.swt"]
 	path = eclipse.platform.swt
-	url = git://git.eclipse.org/gitroot/eclipse.platform.swt.git
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.swt.git
 [submodule "eclipse.platform.swt.binaries"]
 	path = eclipse.platform.swt.binaries
-	url = git://git.eclipse.org/gitroot/eclipse.platform.swt.binaries.git
+	url = git://git.eclipse.org/gitroot/platforom/eclipse.platform.swt.binaries.git
 [submodule "eclipse.platform.team"]
 	path = eclipse.platform.team
-	url = git://git.eclipse.org/gitroot/eclipse.platform.team
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.team
 [submodule "eclipse.platform.text"]
 	path = eclipse.platform.text
-	url = git://git.eclipse.org/gitroot/eclipse.platform.text
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.text
 [submodule "eclipse.platform.ua"]
 	path = eclipse.platform.ua
-	url = git://git.eclipse.org/gitroot/eclipse.platform.ua
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.ua
 [submodule "eclipse.platform.ui"]
 	path = eclipse.platform.ui
-	url = git://git.eclipse.org/gitroot/eclipse.platform.ui
+	url = git://git.eclipse.org/gitroot/platform/eclipse.platform.ui
 [submodule "rt.equinox.binaries"]
 	path = rt.equinox.binaries
 	url = git://git.eclipse.org/gitroot/equinox/rt.equinox.binaries.git
