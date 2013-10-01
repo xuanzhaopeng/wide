@@ -53,6 +53,7 @@
   <modules>
   	<module>../eclipse.platform</module>
   	<module>../rt.equinox.bundles</module>
+  	<module>../rt.equinox.framework</module>
   </modules>
   <repositories>
     <repository>
