@@ -54,6 +54,7 @@
   	<module>../eclipse.platform</module>
   	<module>../eclipse.platform.runtime</module>
   	<module>../eclipse.platform.team</module>
+  	<module>../eclipse.platform.debug</module>
   	<module>../rt.equinox.bundles</module>
   	<module>../rt.equinox.framework</module>
   </modules>
