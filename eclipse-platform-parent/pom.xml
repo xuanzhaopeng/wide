@@ -50,6 +50,9 @@
     <eclipse-p2-repo.url>http://download.eclipse.org/eclipse/updates/4.4-I-builds</eclipse-p2-repo.url>
 
   </properties>
+  <modules>
+  	<module>../eclipse.platform</module>
+  </modules>
   <repositories>
     <repository>
       <id>orbit</id>
