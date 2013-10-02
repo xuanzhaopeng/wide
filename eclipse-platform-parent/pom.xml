@@ -56,10 +56,7 @@
   	<module>../eclipse.platform.team</module>
   	<module>../eclipse.platform.debug</module>
   	<module>../eclipse.platform.common</module>
-  	<module>../eclipse.platform.releng</module>
   	<module>../eclipse.platform.resources</module>
-  	<module>../eclipse.platform.swt</module>
-  	<module>../eclipse.platform.swt.binaries</module>
   	<module>../eclipse.platform.text</module>
   	<module>../eclipse.platform.ua</module>
   	<module>../eclipse.platform.ui</module>
